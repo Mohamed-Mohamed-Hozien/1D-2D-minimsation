@@ -28,7 +28,7 @@
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/theories-notebook.git
+   git clone [https://github.com/yourusername/theories-notebook.git](https://github.com/Mohamed-Mohamed-Hozien/R3.git)
    ```
 
 2. **Run the Notebook**:

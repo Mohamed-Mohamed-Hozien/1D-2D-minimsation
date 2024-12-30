@@ -44,7 +44,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Developed by:
 [Mohamed Hozien](https://github.com/Mohamed-Mohamed-Hozien),
-[Ziad Moataz](https://github.com/ZiadMAlsawy),`
+[Ziad Moataz](https://github.com/ZiadMAlsawy),
 [Youssef Tarek](https://github.com/Youssef57-T),
 
 Feel free to reach out for any queries or suggestions.
